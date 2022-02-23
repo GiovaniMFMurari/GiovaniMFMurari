@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:giovanimfmurari.contact@gmail.com)
 
 
-I currently work with **Full Stack Web Development** at @dextra and am open to new technologies and programming languages. Personaly, I do not have an especific focus area in the development world, but the themes that attracts me the most are: games, web APIs, web front-ends and mobile. Currently I am working on improving my participation to open-source projects and the community.
+I currently work with **Full Stack Web Development** and am open to new technologies and programming languages. Personaly, I do not have an especific focus area in the development world, but the themes that attracts me the most are: games, web APIs, web front-ends and mobile. Currently I am working on improving my participation to open-source projects and the community.
 
 #### Main languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/GiovaniMFMurari/)
